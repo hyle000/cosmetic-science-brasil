@@ -1,0 +1,32 @@
+cosmetic-science-brasil/
+├── README.md
+├── .gitignore
+├── assets/
+│   ├── css/
+│   │   ├── style.css
+│   │   └── editor.css
+│   ├── js/
+│   │   ├── main.js
+│   │   ├── search.js
+│   │   └── calendar.js
+│   └── img/
+│       ├── placeholders/
+│       │   └── .gitkeep
+│       └── icons/
+│           └── .gitkeep
+├── index.html
+├── artigo.html
+├── artigos.html
+├── colunas.html
+├── entrevistas.html
+├── resenhas.html
+├── noticias.html
+├── acervo.html
+├── login.html
+├── cadastro.html
+├── recuperar-senha.html
+├── assinatura.html
+├── assinante.html
+├── eventos.html
+├── anunciantes.html
+└── components.html
